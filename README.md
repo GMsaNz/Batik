@@ -1,5 +1,5 @@
 📌 Deskripsi Proyek
-E-Commerce Batik adalah platform penjualan online khusus produk batik tradisional Indonesia. Sistem ini dibangun untuk memudahkan pelaku usaha batik dalam memasarkan produknya secara digital dengan fitur-fitur lengkap e-commerce.
+E-Commerce Batik Alomani adalah platform penjualan online khusus produk batik tradisional Indonesia. Sistem ini dibangun untuk memudahkan pelaku usaha batik dalam memasarkan produknya secara digital dengan fitur-fitur lengkap e-commerce.
 
 🌟 Fitur Utama
 Katalog Produk dengan kategori batik daerah
