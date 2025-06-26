@@ -89,10 +89,11 @@ session_start();
                     <!-- Search Bar -->
                     <div class="col-lg-7 col-md-5 col-12">
                         <div class="search-container">
-                            <input type="text" placeholder="Search">
-                            <button type="button">
-                                <i class="fas fa-search"></i>
-                            </button>
+                            <form action="./proses_cari.php" method="get" class="d-flex">
+                                <input class="form-control me-2" type="search" name="q"
+                                    placeholder="Cari produk batik..." aria-label="Search">
+                                <button class="fas fa-search" type="submit"></button>
+                            </form>
                         </div>
                     </div>
                     <!-- Navigation Icons -->
