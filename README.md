@@ -1,7 +1,7 @@
-📌 Deskripsi Proyek
+#📌 Deskripsi Proyek#
 E-Commerce Batik Alomani adalah platform penjualan online khusus produk batik tradisional Indonesia. Sistem ini dibangun untuk memudahkan pelaku usaha batik dalam memasarkan produknya secara digital dengan fitur-fitur lengkap e-commerce.
 
-🌟 Fitur Utama
+##🌟 Fitur Utama
 Katalog Produk dengan kategori batik daerah
 
 Sistem Pembayaran terintegrasi (Midtrans)
@@ -16,7 +16,7 @@ Multi-user (Admin, Seller, Customer)
 
 Live Chat
 
-🛠 Teknologi Digunakan
+## 🛠 Teknologi Digunakan
 Frontend:
 
 Bootstrap 5
@@ -37,7 +37,7 @@ Midtrans Payment Gateway
 
 PHPMailer (notifikasi email)
 
-📦 Struktur Database
+## 📦 Struktur Database
 Tabel utama:
 
 tb_produk - Menyimpan data produk batik
@@ -84,7 +84,7 @@ DB_PASS=
 MIDTRANS_SERVER_KEY=your_server_key
 MIDTRANS_CLIENT_KEY=your_client_key
 MIDTRANS_PROD=false
-📋 Cara Penggunaan
+### 📋 Cara Penggunaan
 Admin:
 
 Akses /admin
@@ -97,17 +97,17 @@ Register/Login
 
 Belanja produk dan checkout
 
-📸 Screenshot
+### 📸 Screenshot
 https://github.com/GMsaNz/Batik/blob/master/Cuplikan%20layar%202025-06-26%20233541.png - Admin Dashboard
 https://github.com/GMsaNz/Batik/blob/master/Cuplikan%20layar%202025-06-26%20233937.png - User Dashboard
 
-📜 Lisensi
+## 📜 Lisensi
 Proyek ini dilisensikan dibawah MIT License
 
-🤝 Kontribusi
+## 🤝 Kontribusi
 Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu.
 
-✉ Kontak
+## ✉ Kontak
 Email: wahyupamungkasjk@gmail.com
 
 
