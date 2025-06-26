@@ -1,7 +1,7 @@
-#📌 Deskripsi Proyek#
+# 📌 Deskripsi Proyek
 E-Commerce Batik Alomani adalah platform penjualan online khusus produk batik tradisional Indonesia. Sistem ini dibangun untuk memudahkan pelaku usaha batik dalam memasarkan produknya secara digital dengan fitur-fitur lengkap e-commerce.
 
-##🌟 Fitur Utama
+## 🌟 Fitur Utama
 Katalog Produk dengan kategori batik daerah
 
 Sistem Pembayaran terintegrasi (Midtrans)
@@ -52,7 +52,7 @@ tb_keranjang - menyimpan ke keranjang
 
 tb_kategori - Kategori batik (Batik Solo, Batik Pekalongan, dll)
 
-🚀 Instalasi
+## 🚀 Instalasi
 Clone repositori:
 
 bash
